@@ -3,7 +3,7 @@ import Layout from '../components/Layout'
 import MidiInstrument from '../components/MidiInstrument'
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
+  <Layout title="Corpus">
     <MidiInstrument />
   </Layout>
 )
